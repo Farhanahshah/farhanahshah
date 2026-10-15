@@ -20,4 +20,4 @@ I turn raw data into clear business insights through dashboards and analysis. I'
 
 ## Contact
 - Email: farus9145@gmail.com
-- LinkedIn: https://www.linkedin.com/in/syed-farhana-333236414/
+- LinkedIn: https://www.linkedin.com/in/farhanah-s-333236414/
