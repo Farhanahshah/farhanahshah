@@ -11,7 +11,7 @@ I turn raw data into clear business insights through dashboards and analysis. I'
 - **Analytics:** Data cleaning and validation, exploratory data analysis, reporting
 
 ## Projects
-- [E-commerce Product & Review Analysis](add-repo-link) - Python, MySQL, Power BI
+- [E-commerce Product & Review Analysis](https://github.com/Farhanahshah/ecommerce-product-review-analysis) - Python, MySQL, Power BI
 - [Laptop Price Analysis](add-repo-link) - Python, Pandas, NumPy, Matplotlib
 - [HR Analytics Dashboard](https://github.com/farhanahshah/hr-analytics-dashboard) - Power BI
 - [Sales Performance Dashboard](add-repo-link) - Power BI
