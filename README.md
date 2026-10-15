@@ -12,7 +12,7 @@ I turn raw data into clear business insights through dashboards and analysis. I'
 
 ## Projects
 - [E-commerce Product & Review Analysis](https://github.com/Farhanahshah/ecommerce-product-review-analysis) - Python, MySQL, Power BI
-- [Laptop Price Analysis](add-repo-link) - Python, Pandas, NumPy, Matplotlib
+- [Laptop Price Analysis](https://github.com/Farhanahshah/laptop-price-analysis) - Python, Pandas, NumPy, Matplotlib
 - [HR Analytics Dashboard](https://github.com/farhanahshah/hr-analytics-dashboard) - Power BI
 - [Sales Performance Dashboard](https://github.com/Farhanahshah/sales-performance-dashboard) - Tableau
 - [Netflix Data Analysis](add-repo-link) - SQL
