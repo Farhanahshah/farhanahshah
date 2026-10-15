@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Farhanah Shah
 
-<!--
-**Farhanahshah/farhanahshah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Analyst | Dubai, UAE**
 
-Here are some ideas to get you started:
+I turn raw data into clear business insights through dashboards and analysis. I'm looking for an entry-level Data Analyst role in the UAE.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- **Languages and databases:** SQL, Python (Pandas, NumPy), MySQL
+- **Visualization:** Power BI, Tableau
+- **Spreadsheets:** Advanced Excel
+- **Analytics:** Data cleaning and validation, exploratory data analysis, reporting
+
+## Projects
+- [E-commerce Product & Review Analysis](add-repo-link) - Python, MySQL, Power BI
+- [Laptop Price Analysis](add-repo-link) - Python, Pandas, NumPy, Matplotlib
+- [HR Analytics Dashboard](add-repo-link) - Power BI
+- [Sales Performance Dashboard](add-repo-link) - Power BI
+- [Netflix Data Analysis](add-repo-link) - SQL
+- [Customer Analytics Dashboard](add-repo-link) - Tableau
+
+## Contact
+- Email: farus9145@gmail.com
+- LinkedIn: https://www.linkedin.com/in/syed-farhana-333236414/
