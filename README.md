@@ -15,7 +15,7 @@ I turn raw data into clear business insights through dashboards and analysis. I'
 - [Laptop Price Analysis](https://github.com/Farhanahshah/laptop-price-analysis) - Python, Pandas, NumPy, Matplotlib
 - [HR Analytics Dashboard](https://github.com/farhanahshah/hr-analytics-dashboard) - Power BI
 - [Sales Performance Dashboard](https://github.com/Farhanahshah/sales-performance-dashboard) - Tableau
-- [movies-sql-analysis](add-repo-link) - SQL
+- [movies-sql-analysis](https://github.com/Farhanahshah/movies-sql-analysis) - SQL
 
 
 ## Contact
